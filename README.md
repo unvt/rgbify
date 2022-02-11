@@ -1,5 +1,5 @@
 # rgbify
-rio-rgbify on Docker
+[rio-rgbify](https://github.com/mapbox/rio-rgbify) on Docker
 ![social preview image](https://repository-images.githubusercontent.com/458115975/a60adc7f-c03c-4e91-b00e-9fe57d770b8c)
 
 # build a docker image
